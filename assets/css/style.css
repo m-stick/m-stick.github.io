@@ -54,7 +54,8 @@ section{
 .light-gray-section{
 	background-color: #efeff0;
 }
-img{width:100px;}
+img{width:100%;}
+.logo img{width:100px;}
 
 /*blockquote*/
 blockquote.bq{
